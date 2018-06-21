@@ -32,4 +32,6 @@ Strength of the Leela Master G13
 http://zero.sjeng.org/match-games/5b26c77d48e3e5462acf0c4a
 
 # About W/E-serial
-W/E-serial is training with 70% human style game + 30% leelazero sgf, the strength is equal to same network size of last leela-zero.
+W/E-serial is training with 70% human style game + 30% leelazero sgf,
+
+the strength is equal to same network size of leela-zero.
