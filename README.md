@@ -28,5 +28,8 @@ The training set is keeping change by random sample for each 256k step.
 
 And I will keep to increase human style game percent to see when the strength of weight will decent, and in our test, the style of leela master weight changed very frequently between each weight, and the strength is almost same. So you can test each weight to find the style you love.
 
+Strength of the Leela Master G13
+http://zero.sjeng.org/match-games/5b26c77d48e3e5462acf0c4a
+
 # About W/E-serial
 W/E-serial is training with 70% human style game + 30% leelazero sgf, the strength is equal to same network size of last leela-zero.
