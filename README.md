@@ -11,6 +11,15 @@ Leela Master G is 15*192 network(Last is LeelaMaster_G13)
 
 Welcome to our discuss qq group: 693862763
 
+# About leelazero sgf 
+LeelaZero Homepage : http://zero.sjeng.org/
+
+LeelaZero Github: https://github.com/gcp/leela-zero
+
+LeelaZero Training set: https://leela.online-go.com/training/
+
+LeelaZero sgf pack: http://sjeng.org/zero
+
 # About human sgf 
 The human sgf is mainly download from https://github.com/yenw/computer-go-dataset
 
