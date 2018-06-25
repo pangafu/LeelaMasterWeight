@@ -7,7 +7,11 @@ Leela Master E is 10*128 network(complete)
 
 Leela Master W is 20*128 network(complete)
 
-Leela Master G is 15*192 network(Last is LeelaMaster_G13)
+Leela Master G is 15*192 network(Last is LeelaMaster_GX31)
+
+Leela Zero Z is 30*256 network(complete)
+
+Leela Master B is 30*256 network(Last is LeelaMaster_B03)
 
 Welcome to our discuss qq group: 693862763
 
@@ -25,6 +29,18 @@ The human sgf is mainly download from https://github.com/yenw/computer-go-datase
 
 I used AI, Professional, TYGEM, Tom and CGOS game, mix with leelazero sgf.
 
+# About Z-serial
+Z-serial is training from leelazero sgf in 30 * 256 network size.
+The last learning rate is 0.0005, and the traning set is random sample from leela zero's last 3,000,000 games
+Z-serial's end network is used to make B-serial.
+
+# About B-serial
+B-serial is traing from leelazero + human sgf in 30 * 256 network size, it based on z-serial network.
+
+B01 - B03 : 80% leelazero sgf + 20% human style game
+
+Current learning rate is 0.0005
+
 # About G-serial
 
 G01 - G03 : 90% leelazero sgf + 10% human style game
@@ -40,6 +56,12 @@ And I will keep to increase human style game percent to see when the strength of
 Strength of the Leela Master G13:
 
 http://zero.sjeng.org/match-games/5b26c77d48e3e5462acf0c4a
+
+# About GX-serial
+GX1x is 10% human style game at learning rate 0.0001
+GX2x is 20% human style game at learning rate 0.0001
+GX3x is 30% human style game at learning rate 0.0001
+
 
 # About W/E-serial
 W/E-serial is training with 70% human style game + 30% leelazero sgf,
