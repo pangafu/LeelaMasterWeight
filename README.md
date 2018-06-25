@@ -31,7 +31,9 @@ I used AI, Professional, TYGEM, Tom and CGOS game, mix with leelazero sgf.
 
 # About Z-serial
 Z-serial is training from leelazero sgf in 30 * 256 network size.
+
 The last learning rate is 0.0005, and the traning set is random sample from leela zero's last 3,000,000 games
+
 Z-serial's end network is used to make B-serial.
 
 # About B-serial
@@ -59,7 +61,9 @@ http://zero.sjeng.org/match-games/5b26c77d48e3e5462acf0c4a
 
 # About GX-serial
 GX1x is 10% human style game at learning rate 0.0001
+
 GX2x is 20% human style game at learning rate 0.0001
+
 GX3x is 30% human style game at learning rate 0.0001
 
 
