@@ -17,6 +17,7 @@ Welcome to our discuss qq group: 693862763
 
 # About Octopus (章鱼围棋)
 Octopus go another way to make human style AI, we will try some different techology and some new idea, it no same with leela master, and it will opensource when ready.
+
 章鱼围棋会用另外一条思路去做人谱AI， 会采用一些新的技术和尝试一些新的想法，请不要用leelamaster的棋力去衡量章鱼围棋，当整个成熟后，会考虑开源。
 
 # About leelazero sgf 
