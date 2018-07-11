@@ -20,6 +20,16 @@ Octopus go another way to make human style AI, we will try some different techol
 
 章鱼围棋会用另外一条思路去做人谱AI， 会采用一些新的技术和尝试一些新的想法，请不要用leelamaster的棋力去衡量章鱼围棋，当整个成熟后，会考虑开源。
 
+# About handicap game（关于让子棋）
+It report that GX37, GX38 suit for handicap game with komi version leelazero by @alreadydone~ So you can try handicap games by GX37 or newer.
+
+Thread: https://github.com/gcp/leela-zero/issues/1599 
+
+komi version leelazero(by @alreadydone): https://github.com/alreadydone/lz/tree/komi
+
+release version: https://github.com/alreadydone/lz/releases
+
+
 # About leelazero sgf 
 LeelaZero Homepage : http://zero.sjeng.org/
 
