@@ -82,7 +82,7 @@ GX2x is 20% human style game at learning rate 0.0001
 
 GX3x is 30% human style game at learning rate 0.0001
 
-GX3x is 40% human style game 
+GX4x is 40% human style game 
 
 
 # About W/E-serial
