@@ -7,7 +7,7 @@ Leela Master E is 10*128 network(complete)
 
 Leela Master W is 20*128 network(complete)
 
-Leela Master G is 15*192 network(Last is LeelaMaster_GX39)
+Leela Master G/GX is 15*192 network(Last is LeelaMaster_GX41)
 
 Leela Zero Z is 30*256 network(complete)
 
@@ -59,6 +59,7 @@ B01 - B03 : 80% leelazero sgf + 20% human style game
 Current learning rate is 0.0005
 
 # About G-serial
+G Serial now merged into GX Serial
 
 G01 - G03 : 90% leelazero sgf + 10% human style game
 
@@ -80,6 +81,8 @@ GX1x is 10% human style game at learning rate 0.0001
 GX2x is 20% human style game at learning rate 0.0001
 
 GX3x is 30% human style game at learning rate 0.0001
+
+GX3x is 40% human style game 
 
 
 # About W/E-serial
