@@ -27,16 +27,6 @@ Strength of the Leela Master G13:
 http://zero.sjeng.org/match-games/5b26c77d48e3e5462acf0c4a
 
 
-# About handicap game（关于让子棋）
-It report that GX37/GX38 - GX6x serial suit for handicap game with komi version leelazero by @alreadydone ~ So you can try handicap games by GX37 or newer.
-
-Thread: https://github.com/gcp/leela-zero/issues/1599 
-
-komi version leelazero(by @alreadydone): https://github.com/alreadydone/lz/tree/komi
-
-release version: https://github.com/alreadydone/lz/releases
-
-
 # About leelazero sgf 
 LeelaZero Homepage : http://zero.sjeng.org/
 
@@ -52,12 +42,15 @@ The human sgf is mainly download from https://github.com/yenw/computer-go-datase
 
 I used AI, Professional, TYGEM, Tom and CGOS game, mix with leelazero sgf.
 
-# About Z-serial
-Z-serial is training from leelazero sgf in 30 * 256 network size.
 
-The last learning rate is 0.0005, and the traning set is random sample from leela zero's last 3,000,000 games
+# About handicap game（关于让子棋）
+It report that GX37/GX38 - GX6x serial suit for handicap game with komi version leelazero by @alreadydone ~ So you can try handicap games by GX37 or newer.
 
-Z-serial's end network is used to make B-serial.
+Thread: https://github.com/gcp/leela-zero/issues/1599 
+
+komi version leelazero(by @alreadydone): https://github.com/alreadydone/lz/tree/komi
+
+release version: https://github.com/alreadydone/lz/releases
 
 
 # About GX-serial
@@ -109,6 +102,15 @@ B-serial is traing from leelazero + human sgf in 30 * 256 network size, it based
 B01 - B03 : 80% leelazero sgf + 20% human style game
 
 Current learning rate is 0.0005
+
+
+# About Z-serial
+Z-serial is training from leelazero sgf in 30 * 256 network size.
+
+The last learning rate is 0.0005, and the traning set is random sample from leela zero's last 3,000,000 games
+
+Z-serial's end network is used to make B-serial.
+
 
 
 # About Octopus (章鱼围棋)
