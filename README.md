@@ -21,6 +21,9 @@ Go AI Ratings (by @breakwa11)
 
 https://github.com/breakwa11/GoAIRatings
 
+Home-made Elo ratings for some engines (by xela@lifein19x19.com)
+
+https://lifein19x19.com/viewtopic.php?f=18&t=16086
 
 Strength of the Leela Master G13:
 
