@@ -15,7 +15,7 @@ Leela Master B is 30*256 network(Last is LeelaMaster_B05)
 
 Welcome to our discuss qq group: 693862763
 
-# About LeelaMaster strength(elo)
+# About LeelaMaster strength (ELO)
 
 Go AI Ratings (by @breakwa11)
 
