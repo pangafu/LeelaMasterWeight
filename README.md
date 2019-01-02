@@ -7,7 +7,7 @@ Leela Master E is 10*128 network(complete)
 
 Leela Master W is 20*128 network(complete)
 
-Leela Master G/GX is 15*192 network(Last is LeelaMaster_GX99)
+Leela Master G/GX is 15*192 network(complete)
 
 Leela Zero Z is 30*256 network(complete)
 
