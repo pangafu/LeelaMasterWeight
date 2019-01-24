@@ -3,6 +3,9 @@ Leela Master weight is training from leela zero self-play sgf and human sgf file
 
 https://drive.google.com/drive/folders/1bB8ee1wFuRWL9nPhsl4_BPUhcWSBuxO0?usp=sharing
 
+
+Leela Master OZ is 30*256 network(last is OZ00)
+
 Leela Master E is 10*128 network(complete)
 
 Leela Master W is 20*128 network(complete)
@@ -11,7 +14,7 @@ Leela Master G/GX is 15*192 network(complete)
 
 Leela Zero Z is 30*256 network(complete)
 
-Leela Master B is 30*256 network(Last is LeelaMaster_B05)
+Leela Master B is 30*256 network(complete)
 
 Welcome to our discuss qq group: 693862763
 
@@ -55,6 +58,26 @@ komi version leelazero(by @alreadydone): https://github.com/alreadydone/lz/tree/
 
 release version: https://github.com/alreadydone/lz/releases
 
+# About OZ-serial
+OZ serial has some special supervisor-training parameter:
+1. Traning color plan:(thanks @alreadydone) 
+   Color plan can be used to handicape game, please refer to 
+   a. https://github.com/gcp/leela-zero/issues/1599 
+   b. https://github.com/gcp/leela-zero/pull/1825
+   c. https://github.com/alreadydone/lz/tree/stm4komi
+   
+2. Split traning. (thanks @icee)
+   After compare GX-Serial, it seems that zero sgf is good at opening and human is good at ending game, so I split the traning data, and use more zero data at opening game, more human data at ending game.
+   
+3. Balance training.
+   The exist go sgf game is almost 80% end before 200 step, so the traning data is poor after 200 step. So I sampling more at ending game to balance traning.
+   
+It highly recommend use OZ-serial network with @alreadydone komi version leelazero branch, such as:
+   https://github.com/alreadydone/lz
+   branch: komi+batch, komi+next, komi+tensorbatch, komi ....
+
+Please enjoy the different go game style.
+   
 
 # About GX-serial
 
