@@ -63,7 +63,7 @@ OZ serial is start from all-zero network, has some special supervisor-training p
 
 1. Traning color plan:(thanks @alreadydone @Hersmunch) 
 
-   Color plan can be used to handicape game, please refer to 
+   Color plan can be used for handicape game, please refer to 
    
    a. https://github.com/gcp/leela-zero/issues/1599 
    
