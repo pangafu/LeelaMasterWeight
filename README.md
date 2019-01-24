@@ -62,8 +62,11 @@ release version: https://github.com/alreadydone/lz/releases
 OZ serial has some special supervisor-training parameter:
 1. Traning color plan:(thanks @alreadydone) 
    Color plan can be used to handicape game, please refer to 
+   
    a. https://github.com/gcp/leela-zero/issues/1599 
+   
    b. https://github.com/gcp/leela-zero/pull/1825
+   
    c. https://github.com/alreadydone/lz/tree/stm4komi
    
 2. Split traning. (thanks @icee)
@@ -73,7 +76,9 @@ OZ serial has some special supervisor-training parameter:
    The exist go sgf game is almost 80% end before 200 step, so the traning data is poor after 200 step. So I sampling more at ending game to balance traning.
    
 It highly recommend use OZ-serial network with @alreadydone komi version leelazero branch, such as:
+   
    https://github.com/alreadydone/lz
+   
    branch: komi+batch, komi+next, komi+tensorbatch, komi ....
 
 Please enjoy the different go game style.
