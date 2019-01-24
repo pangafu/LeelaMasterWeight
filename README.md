@@ -79,11 +79,12 @@ OZ serial has some special supervisor-training parameter:
 
    The 80%  exist go sgf is end before 200 step, so the traning data is poor after 200 step. I sampling more at ending game to balance traning.
    
-It highly recommend use OZ-serial network with @alreadydone komi version leelazero branch, such as:
+It highly recommend use OZ-serial network with @alreadydone komi version leelazero branch:
    
    https://github.com/alreadydone/lz
    
    branch: komi+batch, komi+next, komi+tensorbatch, komi ....
+
 
 Please enjoy the different go game style.
    
