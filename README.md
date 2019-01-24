@@ -59,7 +59,7 @@ komi version leelazero(by @alreadydone): https://github.com/alreadydone/lz/tree/
 release version: https://github.com/alreadydone/lz/releases
 
 # About OZ-serial
-OZ serial has some special supervisor-training parameter:
+OZ serial is start from all-zero network, has some special supervisor-training parameter:
 
 1. Traning color plan:(thanks @alreadydone @Hersmunch) 
 
