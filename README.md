@@ -60,7 +60,9 @@ release version: https://github.com/alreadydone/lz/releases
 
 # About OZ-serial
 OZ serial has some special supervisor-training parameter:
+
 1. Traning color plan:(thanks @alreadydone) 
+
    Color plan can be used to handicape game, please refer to 
    
    a. https://github.com/gcp/leela-zero/issues/1599 
@@ -70,9 +72,11 @@ OZ serial has some special supervisor-training parameter:
    c. https://github.com/alreadydone/lz/tree/stm4komi
    
 2. Split traning. (thanks @icee)
+
    After compare GX-Serial, it seems that zero sgf is good at opening and human is good at ending game, so I split the traning data, and use more zero data at opening game, more human data at ending game.
    
 3. Balance training.
+
    The exist go sgf game is almost 80% end before 200 step, so the traning data is poor after 200 step. So I sampling more at ending game to balance traning.
    
 It highly recommend use OZ-serial network with @alreadydone komi version leelazero branch, such as:
