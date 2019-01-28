@@ -51,13 +51,13 @@ When dump data from sgf, I use rule bellow to dump komi data:
 
 1. Filter all W+R, B+R games, the games left only W+N.n and B+N.n;
 
-2. All games is make in 7.5 komi, so if a game is W+2.5, then komi set to 7.5, 8.5, 9.5, the white side is still win, so I can make komi<10 data with this game. if a game is B+2.5, the komi set to 7.5, 6.5, 5.5, the black side can still win, so I can make komi>5 data with this game.
+2. All games is make in 7.5 komi, so if a game is W+2.5, when komi set to 7.5, 8.5, 9.5, the white side is still win, so I can make komi<10 data with this game. If a game is B+2.5, when komi set to 7.5, 6.5, 5.5, the black side can still win, so I can make komi>5 data with this game.
 
 And I dump many komi data in [-30, 40], each komi point had right distribution of black and white win games, so the VN value maybe training right in each komi value.
 
 
 # About Split training & balance training
-@icee make a tool to split training data to different part by step number, we can use this tools to split the training data to [0-30), [30-100],(100-200],(200-300],(300-999]
+@icee make a tool to split training data to different part by step number, we can use this tools to split the training data to [0-30), [30-100),[100-200),[200-300),[300-999]
 
 So we get many training data with different step part, Now we can sample the data we love from the data, I made a tools to sample the data:
 
