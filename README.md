@@ -86,7 +86,9 @@ It highly recommend use OZ-serial network with @alreadydone komi version leelaze
    branch: komi+batch, komi+next, komi+tensorbatch, komi ....
 
 
-Please enjoy the different go game style.
+Please enjoy the different go game style. 
+
+More detail please see https://github.com/pangafu/LeelaMasterWeight/blob/master/LeelaMasterOZ.md
    
 
 # About GX-serial
