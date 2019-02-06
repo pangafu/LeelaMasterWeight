@@ -4,7 +4,7 @@ Leela Master weight is training from leela zero self-play sgf and human sgf file
 https://drive.google.com/drive/folders/1bB8ee1wFuRWL9nPhsl4_BPUhcWSBuxO0?usp=sharing
 
 
-Leela Master OZ is 30*256 network(last is OZ01)
+Leela Master OZ is 30*256 network(last is OZ02)
 
 Leela Master E is 10*128 network(complete)
 
