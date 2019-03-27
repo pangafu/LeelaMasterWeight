@@ -4,7 +4,7 @@ Leela Master weight is training from leela zero self-play sgf and human sgf file
 https://drive.google.com/drive/folders/1bB8ee1wFuRWL9nPhsl4_BPUhcWSBuxO0?usp=sharing
 
 
-Leela Master OZ is 30*256 network(last is OZ13)
+Leela Master OZ is 30*256 network(last is OZ17)
 
 Leela Master E is 10*128 network(complete)
 
@@ -59,6 +59,8 @@ komi version leelazero(by @alreadydone): https://github.com/alreadydone/lz/tree/
 release version: https://github.com/alreadydone/lz/releases
 
 [0308 updated] OZ-serial with komi engine(white) vs zen7(black), can handicap 4 stone and komi 0
+[0327 updated] upload LeelaZero_DKomi+Filter to google share folder, if you can read chinese, you can setup a very powerful hadicape engine.
+
 
 # About OZ-serial
 OZ-serial is awesome in komim mode , in my test , OZ13 with komi engine(white) vs zen7(black), can handicap 4 stone and komi 0
