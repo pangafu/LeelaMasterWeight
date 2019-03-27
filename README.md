@@ -60,11 +60,11 @@ release version: https://github.com/alreadydone/lz/releases
 
 [0308 updated] OZ-serial with komi engine(white) vs zen7(black), can handicap 4 stone and komi 0
 
-[0327 updated] upload LeelaZero_DKomi+Filter to google share folder, if you can read chinese, you can setup a very powerful hadicape engine.
+[0327 updated] upload LeelaZero_DKomi+Filter to google share folder, if you can read chinese, you can setup a very powerful hadicape engine, maybe the world most powerful handicap engine untile 2019/03/27.
 
 # About LeelaZero_DKomi+Filter
 
-LeelaZero_DKomi+Filter is LeelaZero with dyminate komi and handicape filter engine.
+LeelaZero_DKomi+Filter is LeelaZero with dyminate komi, handicape filter and color-plan komi engine, maybe the world most powerful handicap engine untile 2019/03/27.
 
 How to use:
 
