@@ -72,12 +72,17 @@ How to use:
 
 2. Simple guide:
 
-   a) run parameter:
+   a) Run parameter:
+   
       leelaz -m 12 -g -t 8 -r 1 --km-player=1 --km-startmovenum=7 --km-filterstep=40 --km-s1 --km-s1-bias=82.5 --km-s1-step=3.75 --km-s1-maxwr=0.35 --km-s1-minwr=0.05 --km-s2 --km-s2-target=15 --km-s2-step=0.5 --km-s2-maxwr=0.80 --km-s2-minwr=0.55 --km-s3 --km-s3-step=0.5 --km-s3-maxwr=0.80 --km-s3-minwr=0.55 -w OZ.txt.gz
      
-   b) km-startmovenum=hadicape * 2-1
-      km-filterstep=hadicape * 10
-      km-s1-bias Adjust to winrate 15% when OZ(white) play first move
+   b) Adjust parameter:
+   
+   km-startmovenum=hadicape * 2-1
+   
+   km-filterstep=hadicape * 10
+   
+   km-s1-bias Adjust to winrate 15% when OZ(white) play first move
 
 
 # About OZ-serial
