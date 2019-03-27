@@ -59,6 +59,7 @@ komi version leelazero(by @alreadydone): https://github.com/alreadydone/lz/tree/
 release version: https://github.com/alreadydone/lz/releases
 
 [0308 updated] OZ-serial with komi engine(white) vs zen7(black), can handicap 4 stone and komi 0
+
 [0327 updated] upload LeelaZero_DKomi+Filter to google share folder, if you can read chinese, you can setup a very powerful hadicape engine.
 
 
