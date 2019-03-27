@@ -62,6 +62,23 @@ release version: https://github.com/alreadydone/lz/releases
 
 [0327 updated] upload LeelaZero_DKomi+Filter to google share folder, if you can read chinese, you can setup a very powerful hadicape engine.
 
+# About LeelaZero_DKomi+Filter
+
+LeelaZero_DKomi+Filter is LeelaZero with dyminate komi and handicape filter engine.
+
+How to use:
+
+1. There is a chinese doc in the folder.
+
+2. Simple guide:
+
+   a) run parameter:
+      leelaz -m 12 -g -t 8 -r 1 --km-player=1 --km-startmovenum=7 --km-filterstep=40 --km-s1 --km-s1-bias=82.5 --km-s1-step=3.75 --km-s1-maxwr=0.35 --km-s1-minwr=0.05 --km-s2 --km-s2-target=15 --km-s2-step=0.5 --km-s2-maxwr=0.80 --km-s2-minwr=0.55 --km-s3 --km-s3-step=0.5 --km-s3-maxwr=0.80 --km-s3-minwr=0.55 -w OZ.txt.gz
+     
+   b) km-startmovenum=hadicape * 2-1
+      km-filterstep=hadicape * 10
+      km-s1-bias Adjust to winrate 15% when OZ(white) play first move
+
 
 # About OZ-serial
 OZ-serial is awesome in komim mode , in my test , OZ13 with komi engine(white) vs zen7(black), can handicap 4 stone and komi 0
