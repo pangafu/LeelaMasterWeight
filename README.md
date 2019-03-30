@@ -86,7 +86,7 @@ How to use:
 
 
 # About OZ-serial
-OZ-serial is awesome in komim mode , in my test , OZ13 with komi engine(white) vs zen7(black), can handicap 4 stone and komi 0
+OZ-serial is awesome in handicap mode , in my test , OZ13 with LeelaZero_DKomi+Filter engine(white) vs zen7(black), can handicap 4 stone and komi 0
 
 OZ serial is start from all-zero network, has some special supervisor-training parameter:
 
@@ -115,7 +115,8 @@ It highly recommend use OZ-serial network with @alreadydone @Hersmunch komi vers
    
    https://github.com/alreadydone/lz
    branch: komi+batch, komi+next, komi+tensorbatch, komi ....
-
+   
+[update 20190327] OZ with LeelaZero_DKomi+Filter engine is powerful! 
 
 Please enjoy the different go game style. 
 
