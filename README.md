@@ -159,6 +159,7 @@ More detail please see https://github.com/pangafu/LeelaMasterWeight/blob/master/
       OZ18(单卡13wpo)  vs  沙包8(Zen7 S 10w), 让3子 贴0, B+R
       
    c) 测试结论：
+   
       1) 让子在单卡或者低batch情况下，可能棋力更高，多卡大batch可能会显著降低让子棋力，原因未知，可能是让子情况训练的少，不适合大规模乱撒点 (低batch未测试) 
       
       2) gx或者lz目前训练权重的方法，在非komi=7.5的时候，可能会大幅降低棋力。
