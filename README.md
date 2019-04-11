@@ -189,7 +189,7 @@ More detail please see https://github.com/pangafu/LeelaMasterWeight/blob/master/
 
 Compared to untrained color plan weight(GX5B):
 
-![GX5B](/pictures/OZ14.jpg?raw=true)
+![GX5B](/pictures/GX5B.jpg?raw=true)
 
 It indicate color plan is suit for komi and handicap game~
 
