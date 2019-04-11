@@ -171,7 +171,7 @@ More detail please see https://github.com/pangafu/LeelaMasterWeight/blob/master/
 
 
 
-[update 20190411] OZ14 komi vs winrate
+[update 20190411] OZ14 komi vs winrate ( thanks @zliu1022 )
 
 ![OZ14](/pictures/OZ14.jpg?raw=true)
 
