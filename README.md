@@ -124,7 +124,6 @@ Please enjoy the different go game style.
 
 More detail please see https://github.com/pangafu/LeelaMasterWeight/blob/master/LeelaMasterOZ.md
 
- 
 
 [update 0401]Some handicap test result(OZ18说明.txt):
 
@@ -169,6 +168,12 @@ More detail please see https://github.com/pangafu/LeelaMasterWeight/blob/master/
       2) gx或者lz目前训练权重的方法，在非komi=7.5的时候，可能会大幅降低棋力。
       
       3) 如果zen7 10w确实分先打不赢GX37 12500po，那么传统算法可能更适合被让子的情况，或者说现在的zero算法只适合分先
+
+
+
+[update 20190411] OZ14 komi vs winrate
+
+![OZ14](/pictures/OZ14.jpg?raw=true)
 
 
 # About GX-serial
