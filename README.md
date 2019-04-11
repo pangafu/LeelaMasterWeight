@@ -183,7 +183,7 @@ More detail please see https://github.com/pangafu/LeelaMasterWeight/blob/master/
     
     让4子：  OZ14 white, handicap black 4 stone
 
-    ![OZ14](/pictures/OZ14.jpg?raw=true)
+![OZ14](/pictures/OZ14.jpg?raw=true)
 
 
 # About GX-serial
