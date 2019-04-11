@@ -182,9 +182,16 @@ More detail please see https://github.com/pangafu/LeelaMasterWeight/blob/master/
     让3子：  OZ14 white, handicap black 3 stone
     
     让4子：  OZ14 white, handicap black 4 stone
+    
+    终局：   OZ14 at very close end game( W+0.5 @ komi 7.5)
 
 ![OZ14](/pictures/OZ14.jpg?raw=true)
 
+Compared to untrained color plan weight(GX5B):
+
+![GX5B](/pictures/OZ14.jpg?raw=true)
+
+It indicate color plan is suit for komi and handicap game~
 
 # About GX-serial
 
