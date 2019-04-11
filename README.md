@@ -173,7 +173,17 @@ More detail please see https://github.com/pangafu/LeelaMasterWeight/blob/master/
 
 [update 20190411] OZ14 komi vs winrate ( thanks @zliu1022 )
 
-![OZ14](/pictures/OZ14.jpg?raw=true)
+    空棋盘:  OZ14 black
+
+    让1子:   OZ14 white, black move 1 stone
+    
+    让2子：  OZ14 white, handicap black 2 stone
+    
+    让3子：  OZ14 white, handicap black 3 stone
+    
+    让4子：  OZ14 white, handicap black 4 stone
+
+    ![OZ14](/pictures/OZ14.jpg?raw=true)
 
 
 # About GX-serial
